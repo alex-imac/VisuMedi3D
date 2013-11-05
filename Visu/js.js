@@ -17,24 +17,4 @@ $(document).ready(function($) {
     	effect: 'flip'
     });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 });
